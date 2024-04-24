@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(5, 81, 156);
+    margin: 0px;
+    font-family: 'Open Sens', 'Releway', sans-serif;
+}
+
+.mephoto{
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.div-1{
+    background-color: rgb(62, 12, 102);
+}
+
+.logoinst{
+    width: 30px;
+    height: 30px;
+}
+
+.VN{
+    color: #5a0606;
+    text-align: center;
+}
